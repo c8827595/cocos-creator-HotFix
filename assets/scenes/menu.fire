@@ -195,7 +195,7 @@
       "array": [
         0,
         0,
-        291.8505554199219,
+        373.2569580078125,
         0,
         0,
         0,
@@ -5134,8 +5134,8 @@
     "target": {
       "__id__": 81
     },
-    "component": "Menu",
-    "_componentId": "",
+    "component": "",
+    "_componentId": "20f60m+3RlGO7x2/ARzZ6Qc",
     "handler": "playGame",
     "customEventData": ""
   },
@@ -6677,8 +6677,8 @@
     "target": {
       "__id__": 2
     },
-    "component": "HotUpdate",
-    "_componentId": "",
+    "component": "",
+    "_componentId": "c955baWbq9MBrWwpMR6lJ/d",
     "handler": "checkUpdate",
     "customEventData": ""
   },
@@ -7009,9 +7009,9 @@
     "target": {
       "__id__": 2
     },
-    "component": "HotUpdate",
-    "_componentId": "",
-    "handler": "hotUpdate",
+    "component": "",
+    "_componentId": "c955baWbq9MBrWwpMR6lJ/d",
+    "handler": "HotUpdate",
     "customEventData": ""
   },
   {
@@ -7982,25 +7982,13 @@
     "_id": "52yOxbnSBAALA3al5RKi0M"
   },
   {
-    "__type__": "e390cpl5vpL54CRkH0xI8Ul",
+    "__type__": "c955baWbq9MBrWwpMR6lJ/d",
     "_name": "",
     "_objFlags": 0,
     "node": {
       "__id__": 2
     },
     "_enabled": true,
-    "panel": {
-      "__id__": 180
-    },
-    "manifestUrl": {
-      "__uuid__": "4128b78b-00ae-4d8a-ae35-4e5ca5c5cde9"
-    },
-    "updateUI": {
-      "__id__": 118
-    },
-    "_updating": false,
-    "_canRetry": false,
-    "_storagePath": "",
-    "_id": "21TNfozAxAJ5VU9+3uhOn8"
+    "_id": "9e54+tdihBXrWU5yW8kcXC"
   }
 ]
